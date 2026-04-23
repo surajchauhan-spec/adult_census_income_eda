@@ -46,5 +46,3 @@ Detailed distributions and outlier analysis are in the visualization notebook.
 Income depends on a combination of social and professional factors rather than a single variable.
 
 ---
-
-
